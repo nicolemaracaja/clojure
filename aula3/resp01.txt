@@ -1,0 +1,5 @@
+Dizer que funções são entidades de primeira classe significa
+dizer que elas são tratadas como valores. Ou seja, podem ser
+passadas como argumentos em outras funções, podem ser retornadas
+como resultados de funções, podem ser atribuídas à variáveis,
+entre outros.
